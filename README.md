@@ -1,6 +1,6 @@
 # ✨ Hi , I am Ayush Sharma ✨
 # 💫 About Me:
-🔭 I’m currently working on Springboot with MongoDb project<br>🌱 I’m currently learning JavaScript , Microservices via Springboot<br> 💬 Ask me about anything !<br>📫 How to reach me : as9.ayushsharma@gmail.com<br>📄 Know about my experiences : https://ayushcv-05-24.tiiny.site<br>⚡ Fun fact : Passionate about ⚽ ,🎶 , 🎹<br>
+🔭 I’m currently working on a Fintech project using Springboot<br>🌱 I’m currently learning JavaScript , Microservices via Springboot<br> 💬 Ask me about anything !<br>📫 How to reach me : as9.ayushsharma@gmail.com<br>📄 Know about my experiences : https://ayushcv-05-24.tiiny.site<br>⚡ Fun fact : Passionate about ⚽ ,🎶 , 🎹<br>
 
 
 ## 🌐 Socials:
